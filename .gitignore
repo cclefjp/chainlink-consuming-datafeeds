@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+node_modules/
+package-lock.json
+package.json
+Pipfile
+Pipfile.lock
+PriceConsumerV3.abi
+PriceConsumerV3.address
+PriceConsumerV3.bytecode
